@@ -1,4 +1,4 @@
-# Instalasi Driver WiFi Alfa AWUS 1900 di Linux
+# Instal Driver Wi-Fi Alfa Awus1900 di Linux
 
 ![](https://github.com/fixploit03/INSTAL-DRIVER-WIFI-ALFA-AWUS-1900/blob/main/awus1900.jpg)
 
@@ -58,7 +58,7 @@
    sudo ./install-driver.sh
    ```
 
-Setelah proses instalasi selesai, WiFi Alfa AWUS 1900 seharusnya sudah bisa digunakan. Jika masih ada masalah, coba reboot sistem atau cek apakah modul driver sudah dimuat dengan perintah:
+Setelah proses instalasi selesai, WiFi Alfa Awus1900 seharusnya sudah bisa digunakan. Jika masih ada masalah, coba reboot sistem atau cek apakah modul driver sudah dimuat dengan perintah:
 
 ```
 lsmod | grep '8814au'
