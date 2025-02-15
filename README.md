@@ -1,5 +1,7 @@
 # Instalasi Driver WiFi Alfa AWUS 1900 di Linux
 
+![](https://github.com/fixploit03/INSTAL-DRIVER-WIFI-ALFA-AWUS-1900/blob/main/awus1900.jpg)
+
 1. **Update dan upgrade repositori**  
    Jalankan perintah berikut untuk memperbarui dan meningkatkan sistem:
 
